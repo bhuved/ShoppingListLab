@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.exe
+C:\Users\vedaa\source\repos\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.deps.json
+C:\Users\vedaa\source\repos\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.runtimeconfig.json
+C:\Users\vedaa\source\repos\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.dll
+C:\Users\vedaa\source\repos\ShoppingListLab\bin\Debug\net8.0\ShoppingListLab.pdb
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.dll
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\refint\ShoppingListLab.dll
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.pdb
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ShoppingListLab.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\ShoppingListLab\obj\Debug\net8.0\ref\ShoppingListLab.dll
